@@ -15,4 +15,10 @@ Reloading: R
 
 Inventory: I + Mouse (for looking at the items)
 
-Heres a few examples: 
+Heres a few examples:
+
+![hippo](https://github.com/Elivap/FiringRange/blob/main/Gifs/ezgif-3f57e7b115d95a.gif)
+
+![hippo](https://github.com/Elivap/FiringRange/blob/main/Gifs/ezgif-64fe7cbd0a1efa.gif)
+
+![hippo](https://github.com/Elivap/FiringRange/blob/main/Gifs/ezgif-6521e76ecce0ae.gif)
